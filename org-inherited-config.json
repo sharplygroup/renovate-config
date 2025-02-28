@@ -9,7 +9,6 @@
     ],
     "automerge": true,
     "automergeType": "pr",
-    "bumpVersion": "patch",
     "labels": ["dependencies"],
     "prConcurrentLimit": 1,
     "prHourlyLimit": 2,
